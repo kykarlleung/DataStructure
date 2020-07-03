@@ -35,3 +35,7 @@ Balanced = | Height(Left Subtree) - Height(Right Subtree) |< 1
     <td>O(log n)</td>
   </tr>
 </table>
+
+<hr>
+
+<h5> Insertions and Deletions may require the tree to be reblanced by one or more tree rotations. </h5>
