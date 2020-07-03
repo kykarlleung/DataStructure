@@ -1,4 +1,4 @@
-#AVL Tree
+##AVL Tree
 
 AVL Tree is a Balanced Binary Search Tree
 
