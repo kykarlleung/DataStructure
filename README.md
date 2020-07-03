@@ -5,5 +5,5 @@
   <li>BinarySearchTree (with TreeNode class)</li>
   <li>MaxHeap (Integer)</li>
   <li>MinHeap (Integer)</li>
-  <li></li>
+<!--   <li></li> -->
 </ul>
