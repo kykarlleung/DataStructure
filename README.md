@@ -1,7 +1,11 @@
 # DataStructure
 
-BinarySearchTree (with TreeNode class)
+<p>AVL Tree (Integer) </p>
 
-MaxHeap (Integer)
+<p> BinarySearchTree (with TreeNode class) </p>
 
-MinHeap (Integer)
+<p> MaxHeap (Integer) </p>
+
+<p> MinHeap (Integer) </p>
+
+<p></p>
